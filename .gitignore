@@ -1,0 +1,4 @@
+#Don't tack the content of these folders
+
+
+node_modules/
